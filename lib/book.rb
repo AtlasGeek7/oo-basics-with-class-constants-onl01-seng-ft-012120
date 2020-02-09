@@ -15,4 +15,4 @@ class Book
   end
 end
 
-#book = Book.new("Babadook","Horror")
+book = Book.new("Babadook","Horror")
